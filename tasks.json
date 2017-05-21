@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "track" : "Wordpress",
+        "task": "Install Wordpress ",
+        "description": "Install Wordpress on a Digital Ocean server",
+        "done": "None"
+    },
+    {
+        "id": 2,
+        "track" : "Wordpress",
+        "task": "Install MySQL",
+         "description": "Install MySQL on a Digital Ocean server",
+        "done": "None"
+    },
+    {
+        "id": 3,
+        "track" : "Wordpress",
+        "task": "HTTPS",
+        "description": "Install Lets Encryot to provide HTTPS",
+        "done": "Screenshot of Server showing secure connection"
+    },
+    {
+        "id": 4,
+        "track" : "Backup",
+        "task": "Plan Backup",
+        "description": "Survey different backup solutions for Wordpress",
+        "done": "Selected plugin/solution"
+    },
+    {
+        "id": 5,
+        "track" : "Backup",
+        "task": "Schedule",
+        "description": "Schedule for who or what will backup the server and how often",
+        "done": "Backup Schedule"
+    },
+    {
+        "id": 200,
+        "project" : "New Blog Site",
+        "projectdescription": "Provision a new Wordpress Blog"
+    },
+    {
+        "id": 103,
+        "track" : "Wordpress",
+        "trackname" : "Wordpress Blog",
+        "trackdescription": "Install Wordpress / Mysql combo for a new blog"
+    }
+    ,{
+        "id": 105,
+        "track" : "Backup",
+        "trackname" : "Blogbackup",
+        "trackdescription": "Setup a backup system for blog"
+    }
+    
+]
