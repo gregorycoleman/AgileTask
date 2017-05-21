@@ -9,3 +9,5 @@ Task documentation for agile tasks. Written in Go, AgileTask produces a Markdown
 
 ## Example
 
+[Wordpress Blog Example](./example/README.md)
+
