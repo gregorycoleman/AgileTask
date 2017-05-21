@@ -1,9 +1,6 @@
 # Tasks For New Blog Site
 
 Tasks For Provision a new Wordpress Blog
-
-***
-## Tracks
 ***
 Table of Contents
 =================
@@ -13,6 +10,9 @@ Table of Contents
       * [All Tasks Table](#all-tasks-table)
       * [All Tasks List](#all-tasks-list)
 ***
+
+***
+## Tracks
 |Track  | Description|
 |  ---   | --- |
 | [Wordpress Blog](./Wordpress.md) | Install Wordpress / Mysql combo for a new blog |
