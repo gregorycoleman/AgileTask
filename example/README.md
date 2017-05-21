@@ -23,11 +23,13 @@ Table of Contents
 
 | Task|Track| Description |Definition of Done  |Start Signoff  | Start | End |
 | --- | --- | ---         | ---                | -----------   | ---   | --- |
-| Install Wordpress | Wordpress| Install Wordpress on a Digital Ocean server | None n|  |  |  |
-| Install MySQL| Wordpress| Install MySQL on a Digital Ocean server | None n|  |  |  |
-| HTTPS| Wordpress| Install Lets Encryot to provide HTTPS | Screenshot of Server showing secure connection n|  |  |  |
-| Plan Backup| Backup| Survey different backup solutions for Wordpress | Selected plugin/solution n|  |  |  |
-| Schedule| Backup| Schedule for who or what will backup the server and how often | Backup Schedule n|  |  |  |
+| Install Wordpress  | Wordpress | Install Wordpress on a Digital Ocean server | None |  |  |  |
+| Install MySQL | Wordpress | Install MySQL on a Digital Ocean server | None |  |  |  |
+| HTTPS | Wordpress | Install Lets Encryot to provide HTTPS | Screenshot of Server showing secure connection |  |  |  |
+| Plan Backup | Backup | Survey different backup solutions for Wordpress | Selected plugin/solution |  |  |  |
+| Schedule | Backup | Schedule for who or what will backup the server and how often | Backup Schedule |  |  |  |
+***
+## All Tasks List
 ***
 
 ### Task #1 |  Install Wordpress 
